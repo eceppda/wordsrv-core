@@ -1,0 +1,4 @@
+wordsrv-core
+============
+
+wordsrv-core
